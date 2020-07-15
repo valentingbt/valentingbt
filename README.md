@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is **Valentin Guibert** and I am a fourth-year **web developer student** at Ynov Campus Nantes, France!
+
+I am currently in an internship at **Parkours**.
+
+Contact me at **valentinguibert@ynov.com**!
 <!--
 **valentingbt/valentingbt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
