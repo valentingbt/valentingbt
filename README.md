@@ -4,7 +4,7 @@ My name is **Valentin Guibert** and I am a fourth-year **web developer student**
 
 I am currently in an internship at **Parkours**.
 
-Contact me at **valentinguibert@ynov.com**!
+Contact me at **valentin.guibert@ynov.com**!
 <!--
 **valentingbt/valentingbt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
