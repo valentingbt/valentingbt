@@ -2,7 +2,7 @@
 
 My name is **Valentin Guibert** and I am a fourth-year **web developer student** at Ynov Campus Nantes, France!
 
-I am currently in an internship at **Parkours**.
+I am currently working at **Parkours**.
 
 Contact me at **valentin.guibert@ynov.com**!
 <!--
